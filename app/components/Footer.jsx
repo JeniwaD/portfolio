@@ -19,9 +19,9 @@ const Footer = ({isDarkMode}) => {
     border-gray-400 mx-[10%] mt-12 py-6'>
         <p>©2026 Jeniwa Dongsang. All right reserved.</p>
         <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
-            <li><a target='_blank' href="https://github.com/">GitHub</a></li>
-            <li><a target='_blank' href="https://github.com/">LinkedIn</a></li>
-            <li><a target='_blank' href="https://github.com/">Twitter</a></li>
+            <li><a target='_blank' href="https://github.com/JeniwaD">GitHub</a></li>
+            <li><a target='_blank' href="https://www.linkedin.com/in/jeniwa-dongsang-380012286/">LinkedIn</a></li>
+            <li><a target='_blank' href="https://www.tiktok.com/@jxniwx">TikTok</a></li>
         </ul>
     </div>
 

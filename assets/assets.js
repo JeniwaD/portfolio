@@ -81,29 +81,37 @@ export const workData = [
         title: 'Portfolio Website',
         description: 'Next js Web Design',
         bgImage: '/work-1.png',
+        bgImageDark: '/work-1-dark.png',
+        link: '/'
     },
     {
         title: 'Find Your Hat',
         description: 'JS grid game',
         bgImage: '/work-2.png',
+        bgImageDark: '/work-2.png',
+        link: 'https://github.com/JeniwaD/Find-your-hat-'
     },
     {
         title: 'Food Delivery',
         description: 'MERN stack project ',
         bgImage: '/work-3.png',
+        bgImageDark: '/work-3.png',
+        link: 'https://food-delivery-x9el-60i7ckch7-jeniwads-projects.vercel.app/'
     },
     {
         title: 'Workout App',
         description: 'MERN stack project',
         bgImage: '/work-4.png',
+        bgImageDark: '/work-4.png',
+        link: 'https://benom-health-webapp-frontend.vercel.app/'
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'UX/UI design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.ui_icon, title: 'Consulting Skills', description: 'Consulting skills focus on analyzing, solving problems...', link: '' },
-    { icon: assets.graphics_icon, title: 'Content Creation', description: 'Content creation focuses on crafting engaging media...', link: '' },
+    { icon: assets.web_icon, title: 'Web design', description: 'Building responsive, user-friendly websites using modern technologies with a focus on clean design, performance, and intuitive user experience.', link: 'https://github.com/JeniwaD' },
+    { icon: assets.mobile_icon, title: 'UX/UI design', description: 'Designing intuitive and visually engaging user interfaces with a focus on usability, accessibility, and seamless user experience.', link: 'https://www.figma.com/files/team/1270958895276495309/project/102446433?fuid=1270942029806928108' },
+    { icon: assets.ui_icon, title: 'Consulting Skills', description: 'Analyzing client needs and delivering strategic, user-focused solutions through clear communication, problem-solving, and effective collaboration.', link: 'https://www.linkedin.com/in/jeniwa-dongsang-380012286/' },
+    { icon: assets.graphics_icon, title: 'Content Creation', description: 'Creating engaging and impactful content through storytelling, visuals, and clear messaging to effectively connect with target audiences.', link: 'https://www.tiktok.com/@jxniwx' },
 ]
 
 export const infoList = [
